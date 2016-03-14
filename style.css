@@ -97,7 +97,8 @@ body {
 
 .hero-image img {
 	display: block;
-	width: 540px; }
+	width: 540px;
+	height: auto; }
 		
 /* Button
  * --------------------------- */
