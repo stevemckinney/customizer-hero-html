@@ -87,6 +87,7 @@ body {
 
 .hero-description p {
   -webkit-hyphens: auto;
+  hyphens: auto;
   margin-bottom: 12px; }
 
 .hero-description p:last-child {
